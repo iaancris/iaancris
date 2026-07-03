@@ -5,7 +5,9 @@
 
 ##
 
--  Estou cursando Técnico de Sesenvolvimento de Sistemas 
+- 🧑🏾‍💻 Estou cursando Técnico de Desenvolvimento de Sistemas
+- 💻 Atualmente, estou estudando Python para back-end
+- 📩 Email para contato: christiansousach85@gmail.com
 <!--
 **iaancris/iaancris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
