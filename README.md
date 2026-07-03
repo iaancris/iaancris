@@ -8,6 +8,28 @@
 - 🧑🏾‍💻 Estou cursando Técnico de Desenvolvimento de Sistemas
 - 💻 Atualmente, estou estudando Python para back-end
 - 📩 Email para contato: christiansousach85@gmail.com
+
+- ##
+
+- <a href="https://github.com/iaancris">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denissilvagist&theme=dark" alt="GitHub Streak" />
+</a>
+
+##
+
+<div align="center">
+  <a href="https://github.com/iaancris"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iaancris&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iaancris&layout=compact&langs_count=16&theme=dark" />
+  </a>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="iaancris-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="iaancris-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
+</div>
 <!--
 **iaancris/iaancris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
